@@ -1,5 +1,5 @@
 
-![MasterHead height="400px"](https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg)
+![MasterHead](https://i.pinimg.com/originals/87/f3/f1/87f3f1425b217691da645e97dbb50d55.gif)
 <h1 align="center">Hi 👋, I'm Omran</h1>
 
 <h3 align="center">A passionate full stack developer from Afghanistan</h3>
