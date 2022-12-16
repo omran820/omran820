@@ -8,9 +8,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omran820&label=Profile%20views&color=0e75b6&style=flat" alt="omran820" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omran820" alt="omran820" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/omranrashidy" target="blank"><img src="https://img.shields.io/twitter/follow/omranrashidy?logo=twitter&style=for-the-badge" alt="omranrashidy" /></a> </p>
 
 - 📫 How to reach me **omranrashidy@gmail.com**
 
